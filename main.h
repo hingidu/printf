@@ -43,6 +43,7 @@
  * @group: The current locale's digit separator for integers
  * @pad: This is the character to use for padding the output
  */
+
 struct format_info
 {
 	int prec;
